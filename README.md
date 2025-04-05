@@ -1,7 +1,3 @@
-Great! Based on your [Marketing Department Project](https://github.com/27abhishek27/Marketing_Department_Project), here's a tailored `README.md`:
-
----
-
 # Marketing Department Project
 
 ## 📌 Overview
